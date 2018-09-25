@@ -1,27 +1,25 @@
- def addition(a, b):
+# def addition(a, b):
 
- 	summation = a + b
+# 	summation = a + b
 
- 	return summation
-
-
- def subtraction(a, b):
-
- 	difference = a - b
-
- 	return difference
+# 	return summation
 
 
- def division(a, b):
+# def subtraction(a, b):
 
- 	quotient = a / b
+# 	difference = a - b
 
- 	return quotient
-
- def multiplication(a, b):
-
- 	product = a * b
-
- 	return product
+# 	return difference
 
 
+# def division(a, b):
+
+# 	quotient = a / b
+
+# 	return quotient
+
+# def multiplication(a, b):
+
+# 	product = a * b
+
+# 	return product
