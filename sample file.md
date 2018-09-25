@@ -24,8 +24,8 @@ def addition(a, b):
 
  	return product
  	
-<<<<<<< HEAD
+<<<<<<< HEAD #the branch that you are in
  def function 1
 =======
- 	def function 2
->>>>>>> New_branch_2
+ def function 2
+>>>>>>> New_branch_2 #name of the branch you trying to merge in
