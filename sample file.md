@@ -24,4 +24,8 @@ def addition(a, b):
 
  	return product
  	
+<<<<<<< HEAD
  def function 1
+=======
+ 	def function 2
+>>>>>>> New_branch_2
