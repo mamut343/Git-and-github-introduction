@@ -5,7 +5,7 @@ def addition(a, b):
  	return summation
 
 
- def subtraction(a, b): #this function is for subtraction
+ def subtraction(a, b):
 
  	difference = a - b
 
