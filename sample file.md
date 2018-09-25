@@ -12,11 +12,11 @@ def addition(a, b):
  	return difference
 
 
- def division(a, b):
+ def division(a, b): #this is for division
 
  	quotient = a / b
 
- 	return quotient
+ 	return quotient 
 
  def multiplication(a, b):
 
