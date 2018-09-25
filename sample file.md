@@ -23,3 +23,5 @@ def addition(a, b):
  	product = a * b
 
  	return product
+ 	
+ 	def function 2
